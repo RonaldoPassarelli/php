@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": "rec_1",
+        "id": "1",
+        "nome": "Bolo de laranja"
+    },
+    {
+        "codigo": "rec_2",
+        "id": "2",
+        "nome": "Bolo comum"
+    }
+]

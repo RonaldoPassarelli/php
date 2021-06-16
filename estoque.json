@@ -1,0 +1,50 @@
+[
+    {
+        "codigo": "pd_4",
+        "id": "4",
+        "nome": "a\u00e7ucar",
+        "quantidade": "5000",
+        "unidade": "gr",
+        "valor": "0.02"
+    },
+    {
+        "codigo": "pd_5",
+        "id": "5",
+        "nome": "copo de suco de laranja",
+        "quantidade": "17",
+        "unidade": "Un",
+        "valor": "1.23"
+    },
+    {
+        "codigo": "pd_6",
+        "id": "6",
+        "nome": "fermento",
+        "quantidade": "200",
+        "unidade": "gr",
+        "valor": "0.01"
+    },
+    {
+        "codigo": "pd_3",
+        "id": "3",
+        "nome": "Ovo medio",
+        "quantidade": "14",
+        "unidade": "Un",
+        "valor": "0.65"
+    },
+    {
+        "codigo": "pd_2",
+        "id": "2",
+        "nome": "oleo de soja",
+        "quantidade": "5000",
+        "unidade": "ml",
+        "valor": "0.008"
+    },
+    {
+        "codigo": "pd_1",
+        "id": "1",
+        "nome": "Farinha de trigo",
+        "quantidade": "7000",
+        "unidade": "gr",
+        "valor": "0.006"
+    }
+]

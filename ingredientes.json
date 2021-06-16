@@ -1,0 +1,52 @@
+[
+    {
+        "cod_produto": "pd_4",
+        "cod_receita": "rec_1",
+        "quantidade": "200"
+    },
+    {
+        "cod_produto": "pd_5",
+        "cod_receita": "rec_1",
+        "quantidade": "2"
+    },
+    {
+        "cod_produto": "pd_3",
+        "cod_receita": "rec_1",
+        "quantidade": "4"
+    },
+    {
+        "cod_produto": "pd_6",
+        "cod_receita": "rec_1",
+        "quantidade": "15"
+    },
+    {
+        "cod_produto": "pd_2",
+        "cod_receita": "rec_1",
+        "quantidade": "200"
+    },
+    {
+        "cod_produto": "pd_1",
+        "cod_receita": "rec_2",
+        "quantidade": "250"
+    },
+    {
+        "cod_produto": "pd_4",
+        "cod_receita": "rec_2",
+        "quantidade": "200"
+    },
+    {
+        "cod_produto": "pd_3",
+        "cod_receita": "rec_2",
+        "quantidade": "4"
+    },
+    {
+        "cod_produto": "pd_6",
+        "cod_receita": "rec_2",
+        "quantidade": "20"
+    },
+    {
+        "cod_produto": "pd_2",
+        "cod_receita": "rec_2",
+        "quantidade": "150"
+    }
+]
